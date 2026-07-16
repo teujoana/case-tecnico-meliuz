@@ -6,7 +6,7 @@
 ## Decisão: escalar **Grupo 1**
 
 Confiança: diferença **não** é estatisticamente significativa (p = 0.1315) — vale considerar estender o teste antes de escalar com confiança total frente ao segundo colocado (Grupo 2).
-Atenção: a margem do grupo vencedor caiu bastante entre a 1ª metade do teste (R$ 5582.50/dia) e a 2ª metade (R$ 3215.57/dia). Pode ser efeito de novidade — vale acompanhar mais um ciclo antes de escalar de vez.
+Atenção: a vantagem do Grupo 1 sobre os demais diminuiu na 2ª metade do teste (queda geral observada também no Grupo 2), mas ele segue líder mesmo nesse recorte mais recente. Recomendação de escalar com acompanhamento semanal se mantém.
 
 ## Métricas por grupo
 

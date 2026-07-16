@@ -6,7 +6,7 @@ Oi pessoal! Este é o meu projeto para a resolução do case técnico de estági
 
 1. **Script de Automação (`analyze_test.py`):** realiza o ETL dos dados, limpando strings financeiras automaticamente e agregando os resultados dos testes. Ele calcula de forma transparente a Margem Líquida, o Take-rate, o ROI de Cashback e o Ticket Médio de cada variante.
 2. **Relatórios de Insights:** o script exporta automaticamente relatórios textuais personalizados com métricas e insights detalhados para cada parceiro na pasta `resultados/`.
-3. **Consolidado para Gestão:** um arquivo consolidado (`resumo_final_testes.csv`) com a decisão tomada de cada teste é gerado para fácil importação e acompanhamento.
+3. **Consolidado para Gestão:** um arquivo consolidado (`resumo_geral_testes.csv`) com a decisão tomada de cada teste é gerado para fácil importação e acompanhamento.
 
 ---
 

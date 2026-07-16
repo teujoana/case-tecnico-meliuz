@@ -5,7 +5,7 @@
 
 ## Decisão: escalar **Grupo 1**
 
-Confiança: diferença estatisticamente significativa (p = 0.0) frente ao segundo colocado (Grupo 2).
+Confiança: diferença estatisticamente significativa (p < 0,001) frente ao segundo colocado (Grupo 2).
 
 ## Métricas por grupo
 

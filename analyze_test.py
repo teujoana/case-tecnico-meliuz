@@ -366,7 +366,17 @@ def main():
     args = parser.parse_args()
 
     erros = []
-    for caminho in args.arquivos:
+    # Filtra para processar apenas arquivos .csv e ignora o próprio arquivo de resumo
+    arquivos_para_processar = [
+        f for f in args.arquivos 
+        if f.lower().endswith(".csv") and Path(f).name != RESUMO_PATH.name
+    ]
+
+    if not arquivos_para_processar:
+        print(f"Nenhum dataset válido encontrado para processar.")
+        return
+
+    for caminho in arquivos_para_processar:
         try:
             rodar_um_arquivo(caminho)
         except Exception as e:

@@ -29,8 +29,8 @@ Isso garante que não escolheremos simplesmente a variante com maior volume brut
 | Parceiro | Variante Vencedora | Decisão | Justificativa |
 |----------|-------------------|---------|---------------|
 | **Parceiro A** | Grupo 1 | Escalar para 100% | Apesar da falta de significância estatística (p=0,1315) e da queda na margem entre a 1ª e 2ª metade do teste, o Grupo 1 ainda possui a maior margem líquida acumulada (R$ 404.711) e o maior ROI (24,01x). O Grupo 2 tem margem 12% menor e o Grupo 3 é 35% menor. O custo de oportunidade de manter o teste rodando é maior que o risco de escalar agora. Recomendamos monitoramento semanal pós-escala. |
-| **Parceiro B** | Grupo 1 | Escalar para 100% | De longe a melhor performance em margem líquida (mais que o dobro do Grupo 2) e o maior ROI. Diferença estatisticamente significativa (p=0,0). |
-| **Parceiro C** | Grupo 1 | Escalar para 100% | Única variante viável. O Grupo 2 empatou em R$ 0,00 de margem líquida (comissão totalmente consumida por cashback). Diferença estatisticamente significativa (p=0,0). |
+| **Parceiro B** | Grupo 1 | Escalar para 100% | De longe a melhor performance em margem líquida (mais que o dobro do Grupo 2) e o maior ROI. Diferença estatisticamente significativa (p < 0,001). |
+| **Parceiro C** | Grupo 1 | Escalar para 100% | Única variante viável. O Grupo 2 empatou em R$ 0,00 de margem líquida (comissão totalmente consumida por cashback). Diferença estatisticamente significativa (p < 0,001). |
 
 ---
 
